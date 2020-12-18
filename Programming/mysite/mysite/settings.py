@@ -25,7 +25,7 @@ SECRET_KEY = 'du@71iig(2*!!-5kn_o@q^m$^_x$3(w4(4q47hjldt5@@+10+g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['170.0.0.1']
+ALLOWED_HOSTS = ['170.0.0.1','kiyositetest.herokuapp.com/']
 
 
 # Application definition
